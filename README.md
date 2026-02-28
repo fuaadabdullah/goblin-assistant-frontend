@@ -1,9 +1,11 @@
-# Goblin Assistant - Frontend
+# Archived Repository
 
-React + TypeScript frontend.
+This repository is archived and no longer maintained.
 
-## Setup
-```bash
-npm install
-npm run dev
-```
+Canonical replacement repository:
+
+- https://github.com/fuaadabdullah/goblinos-assistant
+
+Reason for archival:
+
+- Consolidated legacy Goblin repositories into one canonical codebase for maintainability and recruiter clarity.
